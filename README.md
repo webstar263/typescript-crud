@@ -49,7 +49,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/ahmetozydn/typescript-crud.git
+git clone https://github.com/webstar263/typescript-crud.git
 cd yourproject
 npm install
 # After establishing your MongoDB connection!
